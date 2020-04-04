@@ -1,0 +1,25 @@
+{
+        "shortcuts": [
+            {
+                "command": "application:activate-next-tab",
+                "keys": [
+                    "Accel Shift ]"
+                ],
+                "selector": "body"
+            },
+            {
+                "command": "application:activate-previous-tab",
+                "keys": [
+                    "Accel Shift ["
+                ],
+                "selector": "body"
+            },
+            {
+                "command": "apputils:activate-command-palette",
+                "keys": [
+                    "Accel Shift P"
+                ],
+                "selector": "body"
+            },
+        ]
+}
